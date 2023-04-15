@@ -11,6 +11,7 @@ import Teacher from "../components/Teachers";
 import Values from "../components/Values";
 
 export default function Home() {
+  console.log("commit");
   return (
     <div>
       <Head>
@@ -22,14 +23,14 @@ export default function Home() {
         ></link>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      
-    <Hero/>
-    <Values/>
-    <Teacher/>
-    <Student/>
-   <MoreInfoModal/>
-   <Cta/>
-   <Footer/>
+
+      <Hero />
+      <Values />
+      <Teacher />
+      <Student />
+      <MoreInfoModal />
+      <Cta />
+      <Footer />
     </div>
   );
 }
