@@ -56,7 +56,7 @@ const Hero = () => {
               Proces, edukacija i pristup Certifikat
               <br className="lg:flex hidden" /> access on mobile and desktop
             </p>
-            <button className="btn btn-sm lg:btn-lg bg-[#01b636] text-white rounded-full border-none w-36 lg:w-44 capitalize">
+            <button className="btn btn-sm lg:btn-lg bg-[#E0AA3E] text-white rounded-full border-none w-36 lg:w-44 capitalize">
               O nama
             </button>
           </div>

@@ -36,20 +36,20 @@ const Values = () => {
         </div> */}
         {[
           {
-            title: "A lot of positive",
-            text: "ačsodij aosoijdjačočsij asiodj ačoosi aisjd alsij dčaal ",
+            title: "Zajednica",
+            text: "Stvraranje lokalne green zajednice ",
           },
           {
-            title: "Teacher",
-            text: "ašspodj špoasšp odjašpo jjpoasjd pojaspo jpšss pćosapć ",
+            title: "Edukacija",
+            text: "Potpora i pružanje edukativnih sadržaja",
           },
           {
-            title: "REstoran",
-            text: "alskdjalsdjalsijdč aaisojdoai ji ćajsdliaj lć ljmsaćdj ćj maćlsjd lćlj ",
+            title: "Validacija",
+            text: "Validiranje trenutne situacije te transformacij poslovnih procesa",
           },
         ].map((item, key) => (
           <div key={key} className="flex flex-col gap-5 items-center">
-            <img src="/certificate_2.svg" alt="v1" />
+            <img src="/values.png" alt="v1" />
             <p className="text-2xl font-semibold">{item.title}</p>
             <p className="text-gray-500 text-center">{item.text}</p>
           </div>

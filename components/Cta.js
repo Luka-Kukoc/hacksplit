@@ -15,7 +15,7 @@ const Cta = () => {
           className="px-5 py-5 rounded-full w-72 lg:w-96 outline-none bg-[#f8fafe]"
           placeholder="enter a email"
         />
-        <button className="btn btn-sm lg:btn-lg bg-[#01b636] btn-lg rounded-full border-none">
+        <button className="btn btn-sm lg:btn-lg bg-[#E0AA3E] btn-lg rounded-full border-none">
           Send
         </button>
       </div>
