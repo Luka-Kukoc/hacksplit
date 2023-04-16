@@ -14,21 +14,21 @@ const Teacher = () => {
           <img src="/certificate_2.svg" alt="v1" />
           <p className="text-2xl font-semibold">Junior</p>
           <div className="flex items-center gap-2">
-            <p className="text-gray-500">Italian teacher</p>
+            <p className="text-gray-500">Starting certificate</p>
           </div>
         </div>
         <div className="flex flex-col gap-5 ">
           <img src="/certificate_2.svg" alt="v1" />
           <p className="text-2xl font-semibold">Mid</p>
           <div className="flex items-center gap-2">
-            <p className="text-gray-500">Spanish teacher</p>
+            <p className="text-gray-500">Advanced</p>
           </div>
         </div>
         <div className="flex flex-col gap-5 ">
           <img src="/certificate_2.svg" alt="v1" />
           <p className="text-2xl font-semibold">Senior</p>
           <div className="flex items-center gap-2">
-            <p className="text-gray-500">English teacher</p>
+            <p className="text-gray-500">Final certification</p>
           </div>
         </div>
       </div>
